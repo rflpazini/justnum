@@ -1,0 +1,26 @@
+{
+  "name": "justnum",
+  "version": "1.0.0",
+  "description": "A jQuery plugin that allow user type only numbers in an input",
+  "main": "dist/justnum.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "numbers",
+    "plugin",
+    "jQuery"
+  ],
+  "authors": [
+    "Rafael Pazini <rflpazini@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://rflpazini.github.io/justnum",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
