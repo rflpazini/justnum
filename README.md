@@ -1,5 +1,5 @@
 # justnum
-jQuery plugin to allow people digit only numbers in a input
+jQuery plugin to allow people to enter only numbers in a input
 
 ## Demo
 Quer ver como funciona? 
